@@ -1,9 +1,9 @@
--- 16 Business Problems & Solutions
--- ===========================================
--- NETFLIX SQL BUSINESS ANALYTICS PROJECT
--- PostgreSQL
--- 16 Business SQL Problems
--- ===========================================
+ 16 Business Problems & Solutions
+ ===========================================
+ NETFLIX SQL BUSINESS ANALYTICS PROJECT
+ PostgreSQL
+ 16 Business SQL Problems
+ ===========================================
 
 
  ===========================================
